@@ -1,0 +1,6 @@
+c:\users\pranav\documents\visual studio 2012\Projects\Emerson\Emerson\bin\Debug\Emerson.exe.config
+c:\users\pranav\documents\visual studio 2012\Projects\Emerson\Emerson\obj\Debug\Emerson.csprojResolveAssemblyReference.cache
+c:\users\pranav\documents\visual studio 2012\Projects\Emerson\Emerson\bin\Debug\Emerson.exe
+c:\users\pranav\documents\visual studio 2012\Projects\Emerson\Emerson\bin\Debug\Emerson.pdb
+c:\users\pranav\documents\visual studio 2012\Projects\Emerson\Emerson\obj\Debug\Emerson.exe
+c:\users\pranav\documents\visual studio 2012\Projects\Emerson\Emerson\obj\Debug\Emerson.pdb
